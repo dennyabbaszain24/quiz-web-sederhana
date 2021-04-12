@@ -79,9 +79,11 @@ function uncheck(){
 }
 
 function tanda(){
-    if (score<=2){return 'bego banget issss'
-}else{
+    if (score<=3){return 'bego banget issss'
+}else if(score=4){
     return 'lumayan pinter lahh'
+}else{
+    return 'uwawww jago kali'
 }
     
         
