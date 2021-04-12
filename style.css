@@ -34,3 +34,11 @@ input{
     cursor:pointer;
 }
 
+footer{
+    text-align: right;
+    margin-top: 70px;
+}
+
+p{
+    font-size: 15px;
+}
