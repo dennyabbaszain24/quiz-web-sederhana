@@ -107,7 +107,7 @@ submit.addEventListener('click',()=>{
             question.innerHTML = `
             <h2>kmu telah menjawab ${score}/${answerQuestion.length} pertanyaan.</h2>
             
-            <button class="btn-outline-primary" onclick="location.reload()">Reload</button>
+            <button type="button" class="btn-outline-danger" onclick="location.reload()">Reload</button>
            
             `;
             perilaku.innerHTML= tanda();
