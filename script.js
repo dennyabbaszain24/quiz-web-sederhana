@@ -18,7 +18,7 @@ const answerQuestion =[
         b:'B. dini hari',
         c:'C. setiap saat',
         d:'D. lagi berak',
-        correct:'c'
+        correct:'d'
     },{
         question: 'siapa pembuat amel zulfa nangis?',
         a:'A. bukan saya',
@@ -32,9 +32,9 @@ const answerQuestion =[
         b:'B. pas jamet tiktok menyerang',
         c:'C. pas si amel jadi bucin',
         d:'D. sebelum masehi',
-        correct:'b'
+        correct:'d'
     },{
-        question: 'kapan si cewe cabul gak mesum?',
+        question: 'kapan si cewe cabul mesum?',
         a:'A. setiap hari cabul',
         b:'B. setiap saat cabul',
         c:'C. pas si amel jadi bucin',
@@ -65,7 +65,7 @@ function inputQ(){
     b_label.innerText=questionData.b;
     c_label.innerText=questionData.c;
     d_label.innerText=questionData.d;
-    console.log(i)
+    console.log(questionData.correct)
     
 };
 
