@@ -50,7 +50,7 @@ const c_label=document.getElementById('cj');
 const d_label=document.getElementById('dj')
 const submit=document.getElementById('submit');
 const answerEl=document.querySelectorAll('.form')
-const perilaku=document.querySelector('h2')
+
 let score=0;
 let i=0;
 
@@ -86,17 +86,10 @@ function uncheck(){
     
 }
 
-function tanda(){
-    if (score<=3){return 'bego banget issss'
-}else if(score=4){
-    return 'lumayan pinter lahh'
-}else{
-    return 'uwawww jago kali'
-}
-    
+
         
 
-}
+
 
 submit.addEventListener('click',()=>{
     const jawaban=main()
@@ -118,7 +111,7 @@ submit.addEventListener('click',()=>{
             <button type="button" class="btn-outline-danger" onclick="location.reload()">Reload</button>
            
             `;
-            perilaku.innerHTML= tanda();
+         
         
         }
     }
