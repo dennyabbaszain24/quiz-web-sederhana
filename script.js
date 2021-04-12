@@ -1,44 +1,44 @@
 const answerQuestion =[
-    {question: 'siapakah orang paling ganteng?',
-        a:'A. denny abbas zain si tamvan',
-        b:'B. justin bieber',
-        c:'C. paul simanjuntak',
-        d:'D. uing',
-        correct:'a'
-    },{
-        question: 'siapakah yang sering ngambek?',
-        a:'A. pocing',
-        b:'B. amel zulfa',
-        c:'C. amajoon',
-        d:'D. setan',
+    {question: 'kapan javascript pertama kali dirilis?',
+        a:'A. 1945',
+        b:'B. 1995',
+        c:'C. 2001',
+        d:'D. 1999',
         correct:'b'
     },{
-        question: 'kapan denny ngupil?',
-        a:'A. jam 1 siang',
-        b:'B. dini hari',
-        c:'C. setiap saat',
-        d:'D. lagi berak',
-        correct:'d'
-    },{
-        question: 'siapa pembuat amel zulfa nangis?',
-        a:'A. bukan saya',
-        b:'B. tak tau saya',
-        c:'C. orangnya aja gak jelas',
-        d:'D. setan kunti',
+        question: 'apa kepanjangan dari HTML?',
+        a:'A. HyperText Markup Language',
+        b:'B. HoistingText Markup Ligatures',
+        c:'C. Hypertooth Mark Link',
+        d:'D. HardText Markup Language',
         correct:'a'
     },{
-        question: 'kapan cicak berak?',
-        a:'A. zaman dynasty minx',
-        b:'B. pas jamet tiktok menyerang',
-        c:'C. pas si amel jadi bucin',
-        d:'D. sebelum masehi',
-        correct:'d'
+        question: 'siapa pembuat javascript?',
+        a:'A. Mark Zuckerberg',
+        b:'B. Taehyung',
+        c:'C. Brendan Eich',
+        d:'D. Snoop Dog',
+        correct:'c'
     },{
-        question: 'kapan si cewe cabul mesum?',
-        a:'A. setiap hari cabul',
-        b:'B. setiap saat cabul',
-        c:'C. pas si amel jadi bucin',
-        d:'D. setiap dua bulan sekali',
+        question: 'apa kepanjangan dari CSS?',
+        a:'A. Cascading Style Sheets',
+        b:'B. Cascade Syle Shot',
+        c:'C. Cascade Style Sheet',
+        d:'D. Cascading Sile Sit',
+        correct:'a'
+    },{
+        question: 'siapa pembuat NodeJs?',
+        a:'A. Ryan Dahl',
+        b:'B. Brad',
+        c:'C. Jquery',
+        d:'D. Jokowi',
+        correct:'a'
+    },{
+        question: 'apa kepanjangan dari HTTP?',
+        a:'A. Hypertext Twisted Protocol',
+        b:'B. Hypertext Transfer Procontrol',
+        c:'C. Hypertext Transfer Protocol',
+        d:'D. semua salah',
         correct:'c'
     }
 ]
