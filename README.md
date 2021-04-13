@@ -1,4 +1,8 @@
 QUIZ CHALLENGE
 
-build from vanilla js
+Teknologi yang digunakan :
+Vanilla js
+Bootstrap
+CSS
+HTML
 
