@@ -106,7 +106,7 @@ submit.addEventListener('click',()=>{
             inputQ()
         }else{
             question.innerHTML = `
-            <h2>kmu telah menjawab ${score}/${answerQuestion.length} pertanyaan.</h2>
+            <h2>kamu telah menjawab ${score}/${answerQuestion.length} pertanyaan.</h2>
             
             <button type="button" class="btn-outline-danger" onclick="location.reload()">Reload</button>
            
