@@ -1,4 +1,4 @@
-QUIZ CHALLENGE
+#QUIZ CHALLENGE
 
 Teknologi yang digunakan :
 Vanilla js
